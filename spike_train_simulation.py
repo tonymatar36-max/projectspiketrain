@@ -73,4 +73,4 @@ print("Variance/Mean ratio per neuron (Poisson check):", poisson_like_ratio)
 # -----------------------------
 # End of Project
 # -----------------------------
-print("\n Simulation & analysis complete! Ready to add to LinkedIn portfolio.")
+print("\n Simulation & analysis complete!")
