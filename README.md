@@ -1,2 +1,2 @@
-# projectspiketrain
-spike train simulation and data analysis
+# projectspiketrain #neuralpopulation
+Neural Population & Spike Train Simulation (Python)
